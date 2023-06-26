@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sprites
+  m_EditorClassIdentifier: 
+  m_GroupName: Sprites
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b40fc3945caad4c92bb7c6168d65a7ac
+  m_SerializeEntries:
+  - m_GUID: ac1e729d63e009147851635e32f0bfdd
+    m_Address: Assets/Sprites/Small_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4ea97d48a8233547ad8780f11de578e
+    m_Address: Assets/Sprites/Small_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72d99df7e99d0414abb638e12d1e97ce
+    m_Address: Assets/Sprites/Small_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da9d6752771285a40a1b383e61336090
+    m_Address: Assets/Sprites/HexTile_Sheet_1A_backup.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac1645b9b895a8c4a9f8d5b744dcf28b
+    m_Address: Assets/Sprites/HexTile_Sheet_1A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14aefffd3622c7347aad64f2bed35801
+    m_Address: Assets/Sprites/ExtraProps.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b8ca11451d4fb41b09fe4eedf9fa2739, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b9659ded9fcd344cc83348a87c6fbe9f, type: 2}
+    - {fileID: 11400000, guid: b1ac2d72eba374bf8b703cdacd2482e9, type: 2}

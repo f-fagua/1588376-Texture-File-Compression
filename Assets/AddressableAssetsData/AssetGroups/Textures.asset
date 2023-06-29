@@ -27,6 +27,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2df781c70b6f64e5fba5a4abdc91a215
+    m_Address: Assets/PSDs/Border_Angel.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: b8ca11451d4fb41b09fe4eedf9fa2739, type: 2}
   m_SchemaSet:
